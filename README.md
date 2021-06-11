@@ -10,10 +10,18 @@ In this project we have implemented the bubble sort algorithm with following two
 
 - Ruby
 
+To get a local copy run the following steps:
+- Copy this link [this link](https://github.com/Whoistolu/Bubble-Sort-Project)
+- Open your terminal or command line
+- Run "git clone Paste [this link](https://github.com/Whoistolu/Bubble-Sort-Project)"
+- Open the folder with your code editor
+- Create a branch to work on
+- Now You can edit the code and do a pull request
+
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
 - Name: Ajise Toluwase
 - GitHub: [@githubhandle](https://github.com/Whoistolu)
