@@ -10,7 +10,7 @@ In this project we have implemented the bubble sort algorithm with following two
 
 - Ruby
 
-To get a local copy run the following steps:
+  To get a local copy run the following steps:
 - Copy this link [this link](https://github.com/Whoistolu/Bubble-Sort-Project)
 - Open your terminal or command line
 - Run "git clone Paste [this link](https://github.com/Whoistolu/Bubble-Sort-Project)"
